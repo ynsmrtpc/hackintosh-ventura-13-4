@@ -1,1 +1,1 @@
-# hackintosh-ventura-13-4
+# DELL Vostro 5468 Ventura 13.4 Hackintosh İçin EFI Dosyası
